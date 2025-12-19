@@ -32,11 +32,12 @@ The template’s customizable contents are split across five files, all of which
 
 In order to run, the template’s files need to be served/accessed through a web server. For local testing purposes, a local server environment like macOS’s built-in Apache server or the [Live Server Visual Studio Code extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) can be used.
 
-In addition to the details outlined below, the process of customizing the template is also available as a visual tutorial:
+In addition to the details outlined below, the process of customizing the template is also available as a visual tutorial. It is available on Figma (where it can be duplicated and then edited directly) and as a PDF document:
 
-[<img src="https://raw.githubusercontent.com/uclab-potsdam/interactive-flowchart/main/docs/tutorial-figma.png" alt="Preview of flowchart tutorial available on Figma" width="360" />](https://figma.com/file/oEk2RN9Ebt9KQkU8KIrR3a/)
+[<img src="https://raw.githubusercontent.com/uclab-potsdam/interactive-flowchart/main/docs/tutorial-figma.png" alt="Preview of flowchart tutorial on Figma" width="360" />](https://figma.com/file/oEk2RN9Ebt9KQkU8KIrR3a/)
 <br />
-[→ https://figma.com/file/oEk2RN9Ebt9KQkU8KIrR3a/](https://figma.com/file/oEk2RN9Ebt9KQkU8KIrR3a/)
+[→ View Tutorial on Figma](https://figma.com/file/oEk2RN9Ebt9KQkU8KIrR3a/)
+[→ Download Tutorial as PDF](https://raw.githubusercontent.com/uclab-potsdam/interactive-flowchart/main/docs/Tutorial-Interactive-Flowchart.pdf)
 
 ### flowchart.svg
 
@@ -81,8 +82,8 @@ The interactive flowchart bridges this separation by integrating audio narration
 
 ## Credits
 
-Interactive Flowchart is developed within [UCLAB](https://uclab.fh-potsdam.de/) at University of Applied Sciences Potsdam and has involved:
+Interactive Flowchart is developed by [UCLAB](https://uclab.fh-potsdam.de/) at the University of Applied Sciences Potsdam and has involved:
 
-- [Jona Pomerance](https://jona.im/): Ideation, design and development
+- [Jona Pomerance](https://jona.im/): Design, prototyping and development
 - [Marian Dörk](https://mariandoerk.de/): Research supervision
 - [Andrew Boyd](https://bettercatastrophe.com/): “I Want a Better Catastrophe” (book and original flowchart)
