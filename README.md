@@ -37,6 +37,7 @@ In addition to the details outlined below, the process of customizing the templa
 [<img src="https://raw.githubusercontent.com/uclab-potsdam/interactive-flowchart/main/docs/tutorial-figma.png" alt="Preview of flowchart tutorial on Figma" width="360" />](https://figma.com/file/oEk2RN9Ebt9KQkU8KIrR3a/)
 <br />
 [→ View Tutorial on Figma](https://figma.com/file/oEk2RN9Ebt9KQkU8KIrR3a/)
+<br />
 [→ Download Tutorial as PDF](https://raw.githubusercontent.com/uclab-potsdam/interactive-flowchart/main/docs/Tutorial-Interactive-Flowchart.pdf)
 
 ### flowchart.svg
